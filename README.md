@@ -1,1 +1,1 @@
-I am learning to code in C, C++, Python, basics of computer science.
+I am learning C, C++, Python, basics of computer science.
