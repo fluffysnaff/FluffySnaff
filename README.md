@@ -1,3 +1,1 @@
-I am Snaff.
-I code in C, C++, Python.
-Currently learning basics of computer science.
+I am learning to code in C, C++, Python, basics of computer science.
